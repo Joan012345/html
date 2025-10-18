@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Consultant Website</title>
+</head>
+<body style="background-color:#fdf2e9">
+<!--body style="background-image:url('beach.jpg');"   or write in p-->
+
+<h1 style="border:2px solid #fdf2e9;font-size:px;background-color:powderblue;color:#fdf2e9;text-align:center;border-radius:15px">
+  <i>Consultant Website</i>
+</h1>
+
+<p style="background-color:#fdf2e9 ">
+<span style="font-size:22px;color:darkblue">Scientist:</span> 
+<span> Abdolmajid Erfani</span> 
+</p>
+
+<p style="background-color:#fdf2e9 ">
+<span style="font-size:22px;color:darkblue">Consultanat:</span> 
+<span> Joanne Wang, Gowthami Bevara</span> 
+</p>
+
+<p style="background-color:#fdf2e9 ">
+<span style="font-size:22px;color:darkblue">Developers:</span> 
+<span>Arthur Duncan, Evan Meinz, Frank Cook, Ian Washington, Josh Nygaard, Nicholas Sutherby, William Aichner</span> 
+</p>
+
+<p style="background-color:#fdf2e9 ">
+<span style="font-size:22px;color:darkblue">App:</span> 
+<span> Construction Risk Generator</span> 
+</p>
+
+<!--mark sup sub maybe usable style="background-color:powderblue" 
+<h1 style= "border:2px solid lightblue;font-size:50px;color:darkblue">-->
+<p style="background-color:#fdf2e9 ">
+<span style="font-size:22px;color:darkblue">App description:</span>
+<span>The app utilizes a database of 6,000 past construction projects to predict potential risks (including price change and seasonal work issues etc.) for future projects based on cost, size, location, and type of project. By having clients complete a quick questionnaire, the app generates a final list of the most frequent risks related to their project. Due to the online privacy of the database, the developer team will receive the database's Python code from the scientist. Additionally, the app will use natural language and process it to generate templates. The assessment report will be displayed within the app and will also offer options to download in CSV and PDF formats for client to use flexibly. </span> 
+</p>
+
+<p style="font-size:22px;background-color:#fdf2e9 ;color:darkblue">The User Type/Goal Table</p>
+
+<style>
+table, th, td{border:2px solid powderblue; border-collapse: collapse;background-color:#fdf2e9}
+th {background-color:powderblue;color:#fdf2e9}
+</style>
+
+<table>
+<tr>
+<th>User</th>
+<th>User type</th>
+<th>User goal</th>
+</tr>
+<tr>
+<td>Construction Managers</td>
+<td>Their job is overseeing the construction process. They need to directly manage on-site activities. By using the app's analysis and generated risk lists, they can better understand potential risks and make more flexible adjustments to the construction process.</td>
+<td>Ensure the construction is completed within the scheduled timeframe. Oversee personnel allocation, material distribution, and construction quality to guarantee successful project execution.</td>
+</tr>
+<tr>
+<td>State Department of Transportation</td>
+<td>Individuals who provide funding and oversee construction projects. The app helps them to ensure risks are identified early and that the projects are completed on time and within budget. Therefore, they can ensure the rationality of the budget and create a sufficient construction schedule.</td>
+<td>Ensure risks are identified early and mitigated for publicly funded projects. Oversee the construction process to ensure projects are completed on time and within budget, while verifying the final construction outcomes.</td>
+</tr>
+<tr>
+<td>Contractors</td>
+<td>Individuals participating in construction project bidding. The app enables them to evaluate potential risks and costs associated with construction projects. By considering their capacity to manage these risks, they can decide whether to participate in the bidding process.</td>
+<td>Aim to profit from the projects they successfully bid on.</td>
+</tr>
+</table>
+
+<!--<a href= "Evaluation%20Assignment%202%20â€“%20User%20Goals%20Document.pdf">
+The User Goal Document</a>-->
+<!--img src="" alt="User-goal Table" style="width:500px;height:500px"-->
+<!--a href= "https://mtu.instructure.com/courses/1539686/assignments/12307819">
+Document</a--> 
+<p style="font-size:22px;color:darkblue;background-color:#fdf2e9 ">Document:</p>
+<style>.my-card{display:inline-block;width:200px;background-color:powderblue;color:#fdf2e9;text-decoration:none;padding:10px; margin:4px;border-radius:15px; text-align:center;font-weight:bold}
+</style>
+
+<a class="my-card" 
+href="https://drive.google.com/file/d/1ssaqzaoLguxfM82hqxQIr82Pg8kng3S_/view?usp=sharing" target="_blank">Design support documents</a>
+
+<a class="my-card" 
+href="https://drive.google.com/file/d/1i_ZirSSN2_niTUq5iZIECWHW0OEdiKXV/view?usp=sharing" target="_blank">Heuristic Evulation</a>
+
+<a class="my-card" 
+href="https://drive.google.com/file/d/1ZCm_yfnTHhir4tBwTvQallMj5o1VnadL/view?usp=sharing" target="_blank">Topic Paper</a>
+
+<a class="my-card" 
+href="https://docs.google.com/presentation/d/1hJXyut4IxMNENeRClKkwTHHeuHoufuoa/edit?usp=sharing&ouid=114865225694639364592&rtpof=true&sd=true" target="_blank">Topic slides</a>
+
+<a class="my-card" 
+href="https://drive.google.com/file/d/1xLS4Ssl2GN5KcpPkqt6U25rL3iAzK-xg/view?usp=sharing" target="_blank">Topic presentation</a>
+
+<a class="my-card" 
+href="https://drive.google.com/file/d/1nMOtICKc-eYvfQQNPSRW793du0aq2Rzz/view?usp=sharing" target="_blank">Usability Test Plan</a>
+
+<a class="my-card" 
+href="https://docs.google.com/presentation/d/1tcKyTdbmYSKuCLT5smMsA4cLiWiN99Se/edit?usp=sharing&ouid=114865225694639364592&rtpof=true&sd=true">Preliminary Usability Test Results Presentation</a>
+
+<a class="my-card" 
+href="https://drive.google.com/file/d/1ZmtlzOA7nS0CkEgSDZRtQYJWCdjUPs5U/view?usp=sharing" target="_blank">Usability Test Report</a>
+
+</body>
+</html>
